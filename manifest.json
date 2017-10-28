@@ -1,7 +1,9 @@
 {
     "manifest_version": 2,
     "name": "Back to Top",
+    "short_name": "BTT",
     "version": "1.0",
+    "author": "Minpu Kang",
     "description": "Back to the top of the web",
     "homepage_url": "https://github.com/MinpuKang/back_to_top",
     "permissions": [ "tabs", "\u003Call_urls>" ],
