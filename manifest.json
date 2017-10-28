@@ -3,6 +3,7 @@
     "name": "Back to Top",
     "version": "1.0",
     "description": "Back to the top of the web",
+    "homepage_url": "https://github.com/MinpuKang/back_to_top",
     "permissions": [ "tabs", "\u003Call_urls>" ],
     "icons": {
         "16": "images/top.png"
